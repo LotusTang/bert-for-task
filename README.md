@@ -1,4 +1,4 @@
-### BERT和ALBERT在下游任务中的应用
+### BERT和ALBERT在下游任务中的应用 [代码解读](https://www.cnblogs.com/jiangxinyang/p/11882270.html)
 #### 本项目提供了易用的训练模式和预测模式，可以直接部署。也容易扩展到任何下游任务中
 
 #### albert_task和bert_task文件夹中的内容基本一致
